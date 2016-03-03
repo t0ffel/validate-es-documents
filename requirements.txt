@@ -1,0 +1,2 @@
+elasticsearch==1.5.0
+nose
